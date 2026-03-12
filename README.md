@@ -9,7 +9,7 @@ A simple Java console calculator that performs basic arithmetic operations.
 Calculator.java
 
 ### Output
-![Calculator Output](Calculator_Output.png)
+![Calculator Output](Task1_Calculator/Screenshot 2026-03-10 213356.png)
 
 ---
 
@@ -20,7 +20,7 @@ A Java program that allows users to add, view, and manage contacts using the con
 ContactManager.java
 
 ### Output
-![Contact Manager Output](ContactManager_Output.png)
+![Contact Manager Output](Task1_Calculator/Screenshot 2026-03-10 213413.png)
 
 ---
 
