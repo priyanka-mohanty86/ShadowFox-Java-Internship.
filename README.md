@@ -68,6 +68,12 @@ Withdrawn: 200.0
 Enter your choice: 5  
 Program ended.
 
+### Output
+
+![Bank System Output](Task3_BankSystem/Screenshot 2026-03-18 221757.png)
+
+![Bank System Output](Task3_BankSystem/Screenshot 2026-03-18 221808.png)
+
 ---
 
 ## Task 4: Inventory Management System (GUI)
@@ -84,6 +90,17 @@ Item added successfully.
 Item deleted.
 
 1. Book - 5  
+
+
+### Output
+
+![Inventory Output](Task4_InventoryGUI/Screenshot 2026-03-18 222439.png)
+
+![Inventory Output](Task4_InventoryGUI/Screenshot 2026-03-18 222452.png)
+
+![Inventory Output](Task4_InventoryGUI/Screenshot 2026-03-18 222547.png)
+
+![Inventory Output](Task4_InventoryGUI/Screenshot 2026-03-18 222725.png)
 
 ---
 
